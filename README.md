@@ -19,8 +19,7 @@
 24.10.FR
 * Plan Saturday workout
 * Insurance claims
-
-• Bank account papers
+* Bank account papers
 
 ------------------
 
