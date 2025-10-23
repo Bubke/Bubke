@@ -7,8 +7,8 @@ Get up at 0545
 ## Habit Log
 
 | Date         | Workout  | No Gaming | Reflection |
-|--------------|---------|-----------|-----------|------------|
-| 2025-10-23   |✅       | ✅ 3h     | ✅         | 🟢          |
+|--------------|---------|-----------|-----------|
+| 2025-10-23   |✅       | ✅ 3h     | ✅     |
 
 <!--
 **Bubke/Bubke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
