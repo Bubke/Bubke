@@ -1,8 +1,8 @@
 ## Habit Log
 
-| Date         | Get up @ 0445  | No Gaming |
-|--------------|:---------:|-----------|
-| 2025-10-23   |✅       | ✅     |
+| Date           | Get up @ 0445  | No Gaming |
+|:--------------:|:--------------:|:---------:|
+| 2025-10-23     |✅              | ✅       |
 
 <!--
 **Bubke/Bubke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
