@@ -6,7 +6,7 @@ Get up at 0545
 
 ## Habit Log
 
-| Date         | Workout  | No Gaming | Reflection |
+| Date         | Get up @ 0445  | No Gaming | Reflection |
 |--------------|---------|-----------|-----------|
 | 2025-10-23   |✅       | ✅ 3h     | ✅     |
 
