@@ -1,6 +1,6 @@
 ## Habit Log
 
-| Date           | Get up @ 0545 (1) | No Gaming | Plan next day (10)| Weigh myself (1) |
+| Date           | Get up @ 0545 (1) | No Gaming (4) | Plan next day (10)| Weigh myself (1) |
 |:--------------:|:--------------:|:---------:|:-------:|:-----:|
 | 2025-10-31     |              |        |        |        |
 | 2025-10-30     |              |        |        |     -   |
