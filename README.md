@@ -13,7 +13,12 @@
 | 2025-10-31     |              |        |
 
 ------------------
+23.10.TH
 
+------------------
+24.10.FR
+
+------------------
 
 <!--
 **Bubke/Bubke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
