@@ -1,6 +1,13 @@
 ## Habit Log
 
-| Date           | Get up @ 0545 (1) | No Gaming (4) | Plan next day (10)| Weigh myself (1) | Massage (12) |
+**Get up**
+At 0545.
+Snoozing will disqualify.
+When my alarm wakes me up, I have to get out of bed. Place the alarm out of reach so I have to get up.
+
+
+
+| Date           | Get up (1) | No Gaming (4) | Plan next day (10)| Weigh myself (1) | Massage (12) |
 |:--------------:|:--------------:|:---------:|:-------:|:-----:|:----:|
 | 2025-10-31     |              |        |        |        |    -   |
 | 2025-10-30     |              |        |        |     -   |    -   |
@@ -9,7 +16,7 @@
 | 2025-10-27     |              |        |        |     -   |    -   |
 | 2025-10-26     |              |        |        |     -   |    -   |
 | 2025-10-25     |              |        |        |     -   |    -   |
-| 2025-10-24     |              |        |        |        |    -   |
+| 2025-10-24     |       ✅       |        |        |    ✅    |    -   |
 | 2025-10-23     |✅              | ✅       |     ✅    |  -    |    -   |
 
 ------------------
