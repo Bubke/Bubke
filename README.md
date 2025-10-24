@@ -24,7 +24,7 @@ When my alarm wakes me up, I have to get out of bed. Place the alarm out of reac
 
 ------------------
 24.10.FR
-* Plan Saturday workout
+✅ Plan Saturday workout
 * Insurance claims
 * Bank account papers
 
