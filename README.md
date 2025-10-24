@@ -30,7 +30,7 @@ When my alarm wakes me up, I have to get out of bed. Place the alarm out of reac
 
 ✅ Insurance claims
 
-> Bank account papers
+&gt Bank account papers
 
 ------------------
 
