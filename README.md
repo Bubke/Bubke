@@ -21,13 +21,15 @@ When my alarm wakes me up, I have to get out of bed. Place the alarm out of reac
 
 ------------------
 25.10.SA
-
+* Bank account papers
 ------------------
 24.10.FR
 
 ✅ Plan Saturday workout
+
 ✅ Insurance claims
-* Bank account papers
+
+> Bank account papers
 
 ------------------
 
