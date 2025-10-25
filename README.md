@@ -15,13 +15,17 @@ When my alarm wakes me up, I have to get out of bed. Place the alarm out of reac
 | 2025-10-28     |             |               |                   |-                 |-             |
 | 2025-10-27     |             |               |                   |-                 |-             |
 | 2025-10-26     |             |               |                   |-                 |-             |
-| 2025-10-25     |             |               |                   |-                 |-             |
-| 2025-10-24     |✅           |✅            |✅                 |           ✅    |    -         |
+| 2025-10-25     |✅           |               |                   |-                 |-             |
+| 2025-10-24     |✅           |✅            |✅                 |           ✅     |    -         |
 | 2025-10-23     |✅           |✅            |✅                 |  -               |    -         |
 
 ------------------
+26.10.SU
+
+------------------
 25.10.SA
-* Workout
+✅ Workout
+
 * Bank account papers
 * Plan Sunday workout
 * Answer 1 design question
