@@ -27,8 +27,9 @@ When my alarm wakes me up, I have to get out of bed. Place the alarm out of reac
 
 ✅ Workout
 
+✅ Plan Sunday workout
+
 * Bank account papers
-* Plan Sunday workout
 * Answer 1 design question
 ------------------
 24.10.FR
