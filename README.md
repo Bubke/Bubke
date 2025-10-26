@@ -25,6 +25,7 @@ When my alarm wakes me up, I have to get out of bed. Place the alarm out of reac
 * Workout
 * Bank account papers
 * Answer 1 design question
+* Plan motorbike exam
 * Plan Tuesday workout
 
 ------------------
