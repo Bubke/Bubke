@@ -42,8 +42,10 @@ When my alarm wakes me up, I have to get out of bed. Place the alarm out of reac
 
 ✅ Plan Sunday workout
 
-* Bank account papers
-* Answer 1 design question
+&gt; Bank account papers
+
+&gt; Answer 1 design question
+
 ------------------
 24.10.FR
 
