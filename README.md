@@ -34,7 +34,7 @@ When my alarm wakes me up, I have to get out of bed. Place the alarm out of reac
 
 ✅ Plan Monday workout
 
-* Workout
+❌ Workout
   
 ------------------
 25.10.SA
