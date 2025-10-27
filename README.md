@@ -13,7 +13,7 @@ When my alarm wakes me up, I have to get out of bed. Place the alarm out of reac
 | 2025-10-30     |             |               |                   |-                 |-             |
 | 2025-10-29     |             |               |                   |-                 |              |
 | 2025-10-28     |             |               |                   |-                 |-             |
-| 2025-10-27     |             |               |                   |-                 |-             |
+| 2025-10-27     | ✅          |               |                   |-                 |-             |
 | 2025-10-26     |✅           |✅            |✅                 |-                 |-             |
 | 2025-10-25     |✅           |✅            |✅                 |-                 |-             |
 | 2025-10-24     |✅           |✅            |✅                 |           ✅     |    -         |
@@ -22,7 +22,8 @@ When my alarm wakes me up, I have to get out of bed. Place the alarm out of reac
 ------------------
 27.10.MO
 
-* Workout
+✅ Workout
+
 * Bank account papers
 * Answer 1 design question
 * Plan motorbike exam
