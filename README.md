@@ -12,12 +12,24 @@ When my alarm wakes me up, I have to get out of bed. Place the alarm out of reac
 | 2025-10-31     |             |               |                   |                  |-             |
 | 2025-10-30     |             |               |                   |-                 |-             |
 | 2025-10-29     |             |               |                   |-                 |   booked     |
-| 2025-10-28     |             |               |                   |-                 |-             |
-| 2025-10-27     | ✅          |               |                   |-                 |-             |
+| 2025-10-28     |❌           |✅            |✅                 |-                 |-             |
+| 2025-10-27     |✅           |❌            |❌                 |-                 |-             |
 | 2025-10-26     |✅           |✅            |✅                 |-                 |-             |
 | 2025-10-25     |✅           |✅            |✅                 |-                 |-             |
 | 2025-10-24     |✅           |✅            |✅                 |           ✅     |    -         |
 | 2025-10-23     |✅           |✅            |✅                 |  -               |    -         |
+
+------------------
+29.10.WE
+
+* Workout
+* Bank account papers
+* Answer 1 design question
+* Plan motorbike exam
+* Plan Thursday workout
+* Love habits
+* Haircut
+* Massage
 
 ------------------
 27.10.MO
@@ -27,7 +39,8 @@ When my alarm wakes me up, I have to get out of bed. Place the alarm out of reac
 * Bank account papers
 * Answer 1 design question
 * Plan motorbike exam
-* Plan Tuesday workout
+  
+✅ Plan Tuesday workout
 
 ------------------
 26.10.SU
