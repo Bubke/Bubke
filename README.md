@@ -23,12 +23,15 @@ When my alarm wakes me up, I have to get out of bed. Place the alarm out of reac
 29.10.WE
 
 ❌ Workout
+
 * Bank account papers
 * Answer 1 design question
 * Plan motorbike exam
 * Plan Thursday workout
 * Love habits
+  
 ✅ Haircut
+
 ✅ Massage
 
 ------------------
