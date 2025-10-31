@@ -9,7 +9,7 @@ When my alarm wakes me up, I have to get out of bed. Place the alarm out of reac
 
 | Date           | Get up (1)  | No Gaming (4) | Plan next day (10)| Weigh myself (1) | Massage (12) |
 |:--------------:|:-----------:|:-------------:|:-----------------:|:----------------:|:------------:|
-| 2025-11-08     |             |               |                   |-                 |-             |
+| 2025-11-09     |             |               |                   |-                 |-             |
 | 2025-11-08     |             |               |                   |-                 |-             |
 | 2025-11-07     |             |               |                   |                  |-             |
 | 2025-11-06     |             |               |                   |-                 |-             |
