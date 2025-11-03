@@ -16,7 +16,7 @@ When my alarm wakes me up, I have to get out of bed. Place the alarm out of reac
 | 2025-11-05     |             |               |                   |-                 |...           |
 | 2025-11-04     |             |               |                   |-                 |-             |
 | 2025-11-03     |             |               |                   |-                 |-             |
-| 2025-11-02     |✅           |               |                   |-                 |-             |
+| 2025-11-02     |✅           |✅            |                   |-                 |-             |
 | 2025-11-01     |✅           |✅            |❌                 |-                 |-             |
 | 2025-10-31     |✅           |❌            |❌                 |✅                |-             |
 | 2025-10-30     |✅           |❌            |❌                 |-                 |-             |
@@ -27,6 +27,14 @@ When my alarm wakes me up, I have to get out of bed. Place the alarm out of reac
 | 2025-10-25     |✅           |✅            |✅                 |-                 |-             |
 | 2025-10-24     |✅           |✅            |✅                 |✅                |-             |
 | 2025-10-23     |✅           |✅            |✅                 |-                 |-             |
+------------------
+03.11.WE
+
+* Workout
+* 
+* Plan motorbike exam
+* Plan Tomorrow
+
 ------------------
 02.11.WE
 
@@ -43,7 +51,9 @@ When my alarm wakes me up, I have to get out of bed. Place the alarm out of reac
 * Bank account papers
 * Answer 1 design question
 * Plan motorbike exam
-* Plan Thursday workout
+
+❌ Plan Thursday workout
+
 * Love habits
   
 ✅ Haircut
